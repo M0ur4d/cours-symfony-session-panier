@@ -1,5 +1,5 @@
 # cours-symfony-session-panier
-Code de départ et final de la vidéo sur la session avec Symfony
+Code terminé de la vidéo sur la session avec Symfony
 
 # Installation
 1. Clonez le dépot chez vous
